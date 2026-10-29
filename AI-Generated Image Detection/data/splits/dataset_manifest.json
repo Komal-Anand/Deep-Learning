@@ -1,0 +1,20 @@
+{
+    "train": {
+        "Real": 42,
+        "AI-Generated": 42,
+        "Total": 84
+    },
+    "val": {
+        "Real": 9,
+        "AI-Generated": 9,
+        "Total": 18
+    },
+    "test": {
+        "Real": 9,
+        "AI-Generated": 9,
+        "Total": 18
+    },
+    "deduplicated_total": 120,
+    "excluded_files_count": 0,
+    "random_seed": 42
+}
